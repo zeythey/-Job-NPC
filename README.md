@@ -1,5 +1,6 @@
 # -Job-NPC!
-[3d90c867a12cf885b3151dcb6184eb87](https://user-images.githubusercontent.com/93051373/138566562-1191e708-6a84-4d5f-b087-08070d3c8ec9.png)
+
+![3d90c867a12cf885b3151dcb6184eb87](https://user-images.githubusercontent.com/93051373/138566562-1191e708-6a84-4d5f-b087-08070d3c8ec9.png)
 
 ![8d8c0ffc095a237ae9afe04cafe3c6fd](https://user-images.githubusercontent.com/93051373/138566619-fcf7456a-8657-469f-9e08-67d14645a186.jpg)
 
